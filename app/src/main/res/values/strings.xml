@@ -3,4 +3,16 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="txtlogin">Login</string>
+    <string name="linksigup">Dont have account? Signup</string>
+    <string name="signup">SignUp</string>
+    <string name="hp">Handphone</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="linklogin">Have account? login</string>
+    <string name="sign_up">sign up</string>
+    <string name="login">login</string>
+    <string name="login_google">login google</string>
 </resources>

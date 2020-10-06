@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281462911329",
+    "firebase_url": "https://marketplaceapp-a057f.firebaseio.com",
+    "project_id": "marketplaceapp-a057f",
+    "storage_bucket": "marketplaceapp-a057f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281462911329:android:4958c2a6ee28dbcf1fd520",
+        "android_client_info": {
+          "package_name": "com.iyal.idn.marketplaceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281462911329-9h0sq5ok1vmmlbvsur4d2piphh40lu96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iyal.idn.marketplaceapp",
+            "certificate_hash": "a130878e60a03d2020bab56d9f3dc3d4486af715"
+          }
+        },
+        {
+          "client_id": "281462911329-vhnq94galgm375jt373omp1t435v9d4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxExAmNhma6Zlhbtn4askBiqZ9N7gYfmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281462911329-vhnq94galgm375jt373omp1t435v9d4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
